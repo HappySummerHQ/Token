@@ -22,7 +22,7 @@ If you'd like to integrate suggesting a token into your own web app, you can fol
 const tokenAddress = '0x1634a20C575281c6a90D6Cd9FeDcbae471D6f4e5';
 const tokenSymbol = 'SUMMER';
 const tokenDecimals = 8;
-const tokenImage = 'https://github.com/HappySummerHQ/Token/blob/main/200%20size.png';
+const tokenImage = '';
 
 try {
   // wasAdded is a boolean. Like any RPC method, an error may be thrown.
